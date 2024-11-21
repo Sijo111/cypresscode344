@@ -1,0 +1,7 @@
+{
+
+  "Username": "standard_user",
+  "password": "secret_sauce",
+  "expected":"Congratulations student. You successfully logged in!"
+
+}
